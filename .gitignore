@@ -10,7 +10,7 @@
 *.ear
 
 # Maven build directory
-/target/
+/target/*
 
 # VS Code settings
 .vscode/
