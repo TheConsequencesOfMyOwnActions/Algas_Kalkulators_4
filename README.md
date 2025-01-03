@@ -1,6 +1,6 @@
 # Algas_Kalkulators_4
 
- -Šī ir programma, kas izmantojama algas aprēķināšanai dažādos gados (no 2016. līdz 2025. gadam).
+ -Šī ir programma, kas izmantojama algas aprēķināšanai dažādos gados (no 2016. līdz 2025. gadam).<br/>
  -Var rēķināt neto no bruto algas un otrādi.
 
  ##Darbvirsmas programma
