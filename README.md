@@ -11,7 +11,7 @@ Vai var to izveidot šādi:<br/>
  -ar Launch4j aplikācijas palīdzību izveido .exe aplikāciju<br/>
   (sadaļā JRE Paths norādot jdk)<br/>
  -ar Inno Setup aplikācijas palīdzību iepako klāt java 23.versiju<br/>
-   (to avr iegūt šeit: https://www.oracle.com/java/technologies/downloads/)<br/>
+   (to var iegūt šeit: https://www.oracle.com/java/technologies/downloads/)<br/>
  -Inno Setup veido jaunu skriptu un raksta šo (neaizmirstiet izlabot ceļus atbilstoši Jūsu datoram):<br/>
   [Setup]<br/>
 AppName=Algas Kalkulators<br/>
