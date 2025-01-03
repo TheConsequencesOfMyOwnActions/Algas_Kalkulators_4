@@ -6,7 +6,7 @@
 ## Darbvirsmas programma
 Darbvirsmas programmu sapakotu kopā ar atbilstošo java versiju (lai programma darbotos uz jebkura datora) var lejuplādēt šeit:<br/>
 https://drive.google.com/file/d/1qri05jse1g0-cSDxZYNOo75cVE-kmEts/view?usp=drive_link<br/>
-Vai var to izveidot šādi:<br/>
+Vai arī pats to var izveidot šādi:<br/>
  -exportē jar failu<br/>
  -ar Launch4j aplikācijas palīdzību izveido .exe aplikāciju<br/>
   (sadaļā JRE Paths norādot jdk)<br/>
