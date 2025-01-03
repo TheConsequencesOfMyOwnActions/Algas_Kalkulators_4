@@ -1,4 +1,0 @@
-NAV,0
-I grupa,154
-II grupa,154
-III grupa,120
