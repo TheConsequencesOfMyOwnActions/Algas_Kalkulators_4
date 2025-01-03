@@ -4,15 +4,15 @@
  -Var rēķināt neto no bruto algas un otrādi.
 
  ##Darbvirsmas programma
-Darbvirsmas programmu sapakotu kopā ar atbilstošo java versiju (lai programma darbotos uz jebkura datora) var lejuplādēt šeit:< br / >
-https://drive.google.com/file/d/1qri05jse1g0-cSDxZYNOo75cVE-kmEts/view?usp=drive_link< br / >
-Vai var to izveidot šādi:< br / >
- -exportē jar failu< br / >
- -ar Launch4j aplikācijas palīdzību izveido .exe aplikāciju< br / >
-  (sadaļā JRE Paths norādot jdk)< br / >
- -ar Inno Setup aplikācijas palīdzību iepako klāt java 23.versiju< br / >
-   (to avr iegūt šeit: https://www.oracle.com/java/technologies/downloads/)< br / >
- -Inno Setup veido jaunu skriptu un raksta šo (neaizmirstiet izlabot ceļus atbilstoši Jūsu datoram):< br / >
+Darbvirsmas programmu sapakotu kopā ar atbilstošo java versiju (lai programma darbotos uz jebkura datora) var lejuplādēt šeit:<br/>
+https://drive.google.com/file/d/1qri05jse1g0-cSDxZYNOo75cVE-kmEts/view?usp=drive_link<br/>
+Vai var to izveidot šādi:<br/>
+ -exportē jar failu<br/>
+ -ar Launch4j aplikācijas palīdzību izveido .exe aplikāciju<br/>
+  (sadaļā JRE Paths norādot jdk)<br/>
+ -ar Inno Setup aplikācijas palīdzību iepako klāt java 23.versiju
+   (to avr iegūt šeit: https://www.oracle.com/java/technologies/downloads/)
+ -Inno Setup veido jaunu skriptu un raksta šo (neaizmirstiet izlabot ceļus atbilstoši Jūsu datoram):
   [Setup]
 AppName=Algas Kalkulators
 AppVersion=1.0
