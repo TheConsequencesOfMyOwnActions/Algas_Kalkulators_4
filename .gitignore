@@ -10,7 +10,12 @@
 *.ear
 
 # Maven build directory
-/target/*
+/target/
+# Ignore specific directory inside target
+target/classes/data/
+target/classes/images/
+target/maven-archiver/
+target/maven-status/
 
 # VS Code settings
 .vscode/
