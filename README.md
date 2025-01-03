@@ -3,7 +3,7 @@
  -Šī ir programma, kas izmantojama algas aprēķināšanai dažādos gados (no 2016. līdz 2025. gadam).<br/>
  -Var rēķināt neto no bruto algas un otrādi.
 
- ##Darbvirsmas programma
+## Darbvirsmas programma
 Darbvirsmas programmu sapakotu kopā ar atbilstošo java versiju (lai programma darbotos uz jebkura datora) var lejuplādēt šeit:<br/>
 https://drive.google.com/file/d/1qri05jse1g0-cSDxZYNOo75cVE-kmEts/view?usp=drive_link<br/>
 Vai var to izveidot šādi:<br/>
